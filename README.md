@@ -77,3 +77,7 @@ In my previous job, I was responsible for **overseeing user complaints** and rep
 
 ---
 
+## Samples
+
+🔹**Some automation tasks done at the academy**
+[Homework tasks](https://github.com/Tuteez/sft24-automation/tree/Kaunas/homeworkk-Rokas-Ambrazaitis), [Workshop tasks](https://github.com/Tuteez/sft24-automation/tree/Kaunas/workshop-Rokas-Ambrazaitis)
