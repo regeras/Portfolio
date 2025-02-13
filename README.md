@@ -1,4 +1,4 @@
-# 📌 Portfolio
+#  Portfolio
 
 ## 👋 About Me  
 Hi, my name is **Rokas**. Since the beginning of 2024, I have been studying and practicing to become a **QA Tester**. I am excited to have finally found a field where I can continuously develop my skills.  
@@ -81,3 +81,5 @@ In my previous job, I was responsible for **overseeing user complaints** and rep
 
 🔹**Some automation tasks done at the academy**
 [Homework tasks](https://github.com/Tuteez/sft24-automation/tree/Kaunas/homeworkk-Rokas-Ambrazaitis), [Workshop tasks](https://github.com/Tuteez/sft24-automation/tree/Kaunas/workshop-Rokas-Ambrazaitis)
+
+WIP...
