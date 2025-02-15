@@ -83,5 +83,6 @@ In my previous job, I was responsible for **overseeing user complaints** and rep
 [Homework tasks](https://github.com/Tuteez/sft24-automation/tree/Kaunas/homeworkk-Rokas-Ambrazaitis), [Workshop tasks](https://github.com/Tuteez/sft24-automation/tree/Kaunas/workshop-Rokas-Ambrazaitis)
 
 🔹[Automation testing code written for the 'Regitra' website.](https://github.com/regeras/regitra-tests)
+🔹[Automated testing of the 'Registrų centras' website's homepage](https://github.com/regeras/registru-centras-tests/tree/main)
 
 WIP...
