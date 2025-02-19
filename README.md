@@ -54,14 +54,13 @@ In my previous job, I was responsible for **overseeing user complaints** and rep
 ## 💡 Technical Skills  
 
 ✔️ **SQL** – Writing queries for database validation  
-✔️ **REST API Testing** – Using Postman for API verification  
-✔️ **ISTQB Foundation Level** – Knowledge of testing principles ([ISTQB](https://sjsi.org/ist-qb/do-pobrania/))  
+✔️ **REST API Testing**  
 ✔️ **Software Testing** – Manual & exploratory testing  
 ✔️ **Test Case Creation** – Writing structured test cases  
 ✔️ **Bug Reporting** – Creating clear & actionable reports  
-✔️ **Basic Programming** – Python, JavaScript (for test automation)  
-✔️ **Web Technologies** – Basic HTML, PHP, CSS  
-✔️ **Experience with SaaS Applications** – Testing cloud-based platforms  
+✔️ **Programming** – Python, JavaScript
+✔️ **Web Technologies** – HTML, PHP, CSS  
+✔️ **Experience with SaaS Applications**
 ✔️ **Scrum Workflow** – Working in agile environments  
 
 ---
