@@ -1,6 +1,6 @@
 #  Portfolio
 
-## 👋 About Me  
+##  About Me  
 Hi, my name is **Rokas**. Since the beginning of 2024, I have been studying and practicing to become a **QA Tester**. I am excited to have finally found a field where I can continuously develop my skills.  
 
 Technology has fascinated me since childhood, and **Quality Assurance (QA)** allows me to contribute to making the digital world more user-friendly. In this portfolio, I aim to showcase my **knowledge of QA** and **practical skills** gained through courses, self-study, and work experience. My main focus right now is on expanding my **technical expertise** and gaining more **hands-on experience** in testing.  
@@ -9,20 +9,20 @@ Technology has fascinated me since childhood, and **Quality Assurance (QA)** all
 
 ---
 
-## 💼 My Experience  
+##  My Experience  
 
-### 📌 Sourcery Academy for Testers  
+###  Sourcery Academy for Testers  
 I participated in **Devbridge's "Sourcery Academy for Testers"**, where I gained my first hands-on experience with software testing. Throughout the course, I:  
 ✅ Learned **fundamentals of manual and automated testing**  
 ✅ Developed **strong analytical thinking**  
 ✅ Gained **practical experience with test automation tools**  
 
-### 🏢 Previous Work Experience  
+###  Previous Work Experience  
 In my previous job, I was responsible for **overseeing user complaints** and reporting bugs or defects to administrators. Although unrelated to IT, this role strengthened my **soft skills** and sparked my interest in the **QA field**.  
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 
 ### 🔹 Test Management & Collaboration  
 - [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour), [Confluence](https://www.atlassian.com/software/confluence)  
@@ -51,7 +51,7 @@ In my previous job, I was responsible for **overseeing user complaints** and rep
 
 ---
 
-## 💡 Technical Skills  
+##  Technical Skills  
 
 ✔️ **SQL** – Writing queries for database validation  
 ✔️ **REST API Testing**  
@@ -65,7 +65,7 @@ In my previous job, I was responsible for **overseeing user complaints** and rep
 
 ---
 
-## 🤝 Soft Skills  
+##  Soft Skills  
 
 🔹 **Precision** – Attention to details that others might overlook  
 🔹 **Communication** – Clearly explaining issues and solutions  
