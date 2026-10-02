@@ -18,7 +18,7 @@ I participated in **Devbridge's "Sourcery Academy for Testers"**, where I gained
 ✅ Gained **practical experience with test automation tools**  
 
 ###  Previous Work Experience  
-In my previous job, I was responsible for **overseeing user complaints** and reporting bugs or defects to administrators. Although unrelated to IT, this role strengthened my **soft skills** and sparked my interest in the **QA field**.  
+In my previous job, I was responsible for ensuring the quality of new features being implemented into ongoing projects, and projects that are being prepared for launches via manual testing. During my over a year of work experience I have successfully participated in multiple project releases.
 
 ---
 
